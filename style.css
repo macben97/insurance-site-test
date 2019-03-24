@@ -1,0 +1,232 @@
+body{
+   background-image;
+   height: 100%;
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+   color:black;
+  
+}
+
+.rejoice{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+b{
+	  background-color: #red;
+}
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+}
+  header
+{
+   background-image: linear-gradient(rgba(0, 0, 0, 0.5)),rgba(0, 0, 0, 0.5); 
+   height:100vh;
+   background-size: cover;
+   background-position: right;
+background-family: Georgia;}
+
+.border{
+	background-color: #8B0000;
+	margin: 5px;
+}
+ .invest{
+	 color: red;
+ }  
+ h2{
+color: white;
+} 
+
+}
+.form{
+	color: white;
+}
+}
+.FAQ{
+	text-align: left;
+}
+.main.banner{
+background-image:url("website/smiley.jpg");
+background-size:cover;
+
+}
+ .contact{
+	 
+	color: white;
+	text-align: center;
+	background-image: left;
+	background-color: #800000;
+
+ }
+
+  
+ }
+
+ .headingg{
+		font-style: sitka; 
+		text-align: center;
+ }
+ header h1{
+ font-family: Comic Sans MS;
+ font-size: 30px;
+ text-shadow: 2px 2px;
+
+
+}
+  
+.bodycolor{
+color:white;
+text-align; right;
+}
+
+div.main-nav
+{
+   float: center;
+   list-style: none;
+   margin-top: 30px;
+   top: 0px;
+   background-size: 300px 150px;
+   color: white;
+   
+  
+}
+
+
+div.main-nav  li 
+{
+display: inline-block;
+text-decoration:none;
+;}
+div.main-nav li a 
+{
+color:white;
+text-decoration: none;
+padding: 5px 20px;
+font-family: "Roboto", sans-serif;
+font-size: 20px;
+text-align: top;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 50px;
+    padding: 0;
+	padding-left: 0;
+	padding-right: 0;
+    overflow: hidden;
+    background-color: #800000;
+	
+}
+
+li {
+    float: center;
+}
+  div.class{
+text-align: center;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+
+}
+
+div.main-nav li.active a
+{
+border: 1px solid red;
+
+}
+
+
+
+.holder {
+  width: 300%;
+}
+
+#myimage {
+  background-image: <img src="paying-money.jpg">
+  .image {
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+ 
+}
+
+
+}
+
+
+.square  {
+background-color: white;
+width: 100px;
+height: 20px;
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+}
+
+
+}
+div.main-nav li a:hover
+{
+   border: 1 px solid white;
+color:red;
+}
+a:link{
